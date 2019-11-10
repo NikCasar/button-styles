@@ -52,7 +52,7 @@ div {
   background-color: #f33;
 }
 
-.btn-smll {
+.btn-small {
   font-size: .875rem;
   padding: .4em .75em .3em;
   border-radius: 8px;
@@ -83,7 +83,47 @@ div {
 }
 
 .btn-warning-small {
-  font-size: 1.5rem;
+  font-size: .875rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #f33;
+}
+
+.btn-big {
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+}
+
+.btn-subtle-big {
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #ccc;
+}
+
+.btn-ghost-big {
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #000;
+  border-color: #000;
+}
+
+.btn-warning-big {
+  font-size: 1.125rem;
   padding: .4em .75em .3em;
   border-radius: 8px;
   border-width: 3px;
