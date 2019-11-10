@@ -11,3 +11,83 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  font-size: 1.5rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+}
+
+.btn-subtle {
+  font-size: 1.5rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #ccc;
+}
+
+.btn-ghost {
+  font-size: 1.5rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #000;
+  border-color: #000;
+}
+
+.btn-warning {
+  font-size: 1.5rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #f33;
+}
+
+.btn-smll {
+  font-size: .875rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+}
+
+.btn-subtle-small {
+  font-size: .875rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #ccc;
+}
+
+.btn-ghost-small {
+  font-size: .875rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #000;
+  border-color: #000;
+}
+
+.btn-warning-small {
+  font-size: 1.5rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #f33;
+}
