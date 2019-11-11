@@ -13,121 +13,59 @@ div {
 }
 
 .btn {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   padding: .4em .75em .3em;
   border-radius: 8px;
   border-width: 3px;
+  border-style: solid;
   text-decoration: none;
   color: #fff;
   background-color: #333;
+  border-color: #333;
 }
 
-.btn-subtle {
-  font-size: 1.5rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #ccc;
-}
-
-.btn-ghost {
-  font-size: 1.5rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #000;
+.btn:hover {
+  background-color: #000;
   border-color: #000;
 }
 
+.btn-subtle {
+  color: #fff;
+  background-color: #ccc;
+  border-color: #ccc;
+}
+
+.btn-subtle:hover {
+  background-color: #333;
+  border-color: #333;
+}
+
+.btn-ghost {
+  color: #000;
+  border-color: #000;
+  background-color: #fff;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+  border-color: #666;
+}
+
 .btn-warning {
-  font-size: 1.5rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
   color: #fff;
   background-color: #f33;
+  border-color: #f33;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+  border-color: #933;
 }
 
 .btn-small {
   font-size: .875rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #333;
-}
-
-.btn-subtle-small {
-  font-size: .875rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #ccc;
-}
-
-.btn-ghost-small {
-  font-size: .875rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #000;
-  border-color: #000;
-}
-
-.btn-warning-small {
-  font-size: .875rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #f33;
 }
 
 .btn-big {
-  font-size: 1.125rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #333;
-}
-
-.btn-subtle-big {
-  font-size: 1.125rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #ccc;
-}
-
-.btn-ghost-big {
-  font-size: 1.125rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #000;
-  border-color: #000;
-}
-
-.btn-warning-big {
-  font-size: 1.125rem;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #f33;
+  font-size: 1.5rem;
 }
